@@ -1,1 +1,1 @@
-# Mathematics-for-ML-Specialization
+# Mathematics-for-Machine-Learning-Specialization
